@@ -1,2 +1,3 @@
-# device-fingerprint-js
+# DeviceFingerprint.js
+
 Library for device fingerprinting written in JavaScript.
